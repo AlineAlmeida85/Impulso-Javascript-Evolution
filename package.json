@@ -1,0 +1,19 @@
+{
+  "name": "impulso-javascript-evolution",
+  "version": "1.0.0",
+  "description": "Projeto de Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlineAlmeida85/Impulso-Javascript-Evolution.git"
+  },
+  "author": "Aline Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlineAlmeida85/Impulso-Javascript-Evolution/issues"
+  },
+  "homepage": "https://github.com/AlineAlmeida85/Impulso-Javascript-Evolution#readme"
+}
